@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\CSharpReferenceProject\CSR.Logging\bin\Debug\netstandard2.0\CSR.Logging.deps.json
+C:\Users\Admin\source\repos\CSharpReferenceProject\CSR.Logging\bin\Debug\netstandard2.0\CSR.Logging.dll
+C:\Users\Admin\source\repos\CSharpReferenceProject\CSR.Logging\obj\Debug\netstandard2.0\CSR.Logging.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CSharpReferenceProject\CSR.Logging\obj\Debug\netstandard2.0\CSR.Logging.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharpReferenceProject\CSR.Logging\obj\Debug\netstandard2.0\CSR.Logging.AssemblyInfo.cs

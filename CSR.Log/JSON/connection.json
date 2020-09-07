@@ -1,0 +1,3 @@
+{
+  "Connection": "Server=\SQLExpress;Database=Logging;User Id=backend-logger;Password=P@ssword;"
+}
