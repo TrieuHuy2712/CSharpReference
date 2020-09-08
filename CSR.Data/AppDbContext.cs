@@ -8,10 +8,15 @@ using System.Threading.Tasks;
 
 namespace CSR.Data
 {
-    public class AppDbContext
+    public class AppDbContext : DbContext
     {
-        public AppDbContext()
+        public AppDbContext() : base("SchoolContext")
         {
         }
+        public DbSet<Function> Functions { set; get; }
+    }
+    public class Function
+    {
+        public int ID { get; set; }
     }
 }
