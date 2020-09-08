@@ -1,2 +1,0 @@
-C:\Users\Admin\source\repos\CSharpReferenceProject\CSR.Log\obj\Debug\CSR.Log.csprojAssemblyReference.cache
-C:\Users\Admin\source\repos\CSharpReferenceProject\CSR.Log\obj\Debug\CSR.Log.csproj.CoreCompileInputs.cache
