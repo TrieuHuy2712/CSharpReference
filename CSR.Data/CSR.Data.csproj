@@ -125,5 +125,11 @@
     <None Include="packages.config" />
     <None Include="web.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CSR.Model\CSR.Model.csproj">
+      <Project>{472dabd9-2fb5-4f27-bf9b-f2a715494f12}</Project>
+      <Name>CSR.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

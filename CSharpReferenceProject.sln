@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSR.Log", "CSR.Log\CSR.Log.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSR.Data", "CSR.Data\CSR.Data.csproj", "{C7030DB5-14D4-4921-AED2-D054FE93FCFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSR.Model", "CSR.Model\CSR.Model.csproj", "{472DABD9-2FB5-4F27-BF9B-F2A715494F12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C7030DB5-14D4-4921-AED2-D054FE93FCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7030DB5-14D4-4921-AED2-D054FE93FCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7030DB5-14D4-4921-AED2-D054FE93FCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472DABD9-2FB5-4F27-BF9B-F2A715494F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472DABD9-2FB5-4F27-BF9B-F2A715494F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472DABD9-2FB5-4F27-BF9B-F2A715494F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472DABD9-2FB5-4F27-BF9B-F2A715494F12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
